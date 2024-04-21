@@ -1,0 +1,75 @@
+
+/*
+************
+*************************
+18. cta
+******************************************************* 
+*************************************************************** */
+.cta-area {
+    position: relative;
+    z-index: 9;
+    margin-bottom: -120px;
+  }
+  .cta-wrapper {
+    background-color: var(--clr-theme-primary);
+    border-radius: 10px;
+    padding: 50px 80px 40px;
+    box-shadow: 0px 30px 80px rgba(30, 30, 30, 0.3);
+  }
+  
+  .cta-title {
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 1.25;
+    color: #fff;
+    margin-bottom: 0;
+  }
+  
+  .cta-subtitle {
+    color: #E8184D;
+    font-size: 15px;
+    font-weight: 500;
+    display: inline-block;
+    background-color: #FDF5F7;
+    padding: 10px 25px;
+    line-height: 1;
+    position: relative;
+    z-index: 1;
+    margin-bottom: 10px;
+  }
+  .cta-subtitle::before {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 2px;
+    height: 100%;
+    background-color: #E8184D;
+    content: "";
+  }
+  
+  .cta-btn {
+    height: 55px;
+    border: 1px solid #fff;
+    color: #fff;
+    padding: 0 25px;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: 600;
+    display: inline-block;
+    line-height: 55px;
+    margin: 0 10px;
+  }
+  .cta-btn i {
+    font-size: 18px;
+    margin-right: 10px;
+  }
+  .cta-btn:hover {
+    background: #fff;
+    color: var(--clr-body-heading);
+  }
+  .h2_cta-content-form {
+    position: relative;
+    z-index: 1;
+    margin: 0 40px;
+  }
+  
