@@ -36,17 +36,17 @@ const Categories = () => {
                     alt=""
                   />
                   <img
-                    src="https://img.freepik.com/premium-vector/big-opaque-light-blue-sphere-with-shadow-white-background_444390-8651.jpg?w=740"
+                    src="https://img.freepik.com/premium-vector/big-opaque-solid-blue-sphere-with-shadow-white-background_444390-8651.jpg?w=740"
                     className="category-shape-2"
                     alt=""
                   />
                   <img
-                    src="https://img.freepik.com/premium-vector/big-opaque-light-blue-sphere-with-shadow-white-background_444390-8651.jpg?w=740"
+                    src="https://img.freepik.com/premium-vector/big-opaque-solid-blue-sphere-with-shadow-white-background_444390-8651.jpg?w=740"
                     className="category-shape-3"
                     alt=""
                   />
                   <img
-                    src="https://img.freepik.com/premium-vector/big-opaque-light-blue-sphere-with-shadow-white-background_444390-8651.jpg?w=740"
+                    src="https://img.freepik.com/premium-vector/big-opaque-solid-blue-sphere-with-shadow-white-background_444390-8651.jpg?w=740"
                     className="category-shape-4"
                     alt=""
                   />
@@ -83,8 +83,8 @@ const Categories = () => {
                           <p>
                             <a href="course.html">
                               26 Items
-                              <i className="fa-light fa-arrow-right" />
-                              <i className="fa-light fa-arrow-right" />
+                              <i className="fa-solid fa-arrow-right" />
+                              <i className="fa-solid fa-arrow-right" />
                             </a>
                           </p>
                         </div>
@@ -105,8 +105,8 @@ const Categories = () => {
                           <p>
                             <a href="course.html">
                               26 Items
-                              <i className="fa-light fa-arrow-right" />
-                              <i className="fa-light fa-arrow-right" />
+                              <i className="fa-solid fa-arrow-right" />
+                              <i className="fa-solid fa-arrow-right" />
                             </a>
                           </p>
                         </div>
@@ -128,8 +128,8 @@ const Categories = () => {
                           <p>
                             <a href="course.html">
                               26 Items
-                              <i className="fa-light fa-arrow-right" />
-                              <i className="fa-light fa-arrow-right" />
+                              <i className="fa-solid fa-arrow-right" />
+                              <i className="fa-solid fa-arrow-right" />
                             </a>
                           </p>
                         </div>
@@ -151,8 +151,8 @@ const Categories = () => {
                           <p>
                             <a href="course.html">
                               26 Items
-                              <i className="fa-light fa-arrow-right" />
-                              <i className="fa-light fa-arrow-right" />
+                              <i className="fa-solid fa-arrow-right" />
+                              <i className="fa-solid fa-arrow-right" />
                             </a>
                           </p>
                         </div>
@@ -173,8 +173,8 @@ const Categories = () => {
                           <p>
                             <a href="course.html">
                               26 Items
-                              <i className="fa-light fa-arrow-right" />
-                              <i className="fa-light fa-arrow-right" />
+                              <i className="fa-solid fa-arrow-right" />
+                              <i className="fa-solid fa-arrow-right" />
                             </a>
                           </p>
                         </div>
@@ -196,8 +196,8 @@ const Categories = () => {
                           <p>
                             <a href="course.html">
                               26 Items
-                              <i className="fa-light fa-arrow-right" />
-                              <i className="fa-light fa-arrow-right" />
+                              <i className="fa-solid fa-arrow-right" />
+                              <i className="fa-solid fa-arrow-right" />
                             </a>
                           </p>
                         </div>

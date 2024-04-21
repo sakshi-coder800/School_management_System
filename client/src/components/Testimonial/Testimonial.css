@@ -1,9 +1,4 @@
-.h3_testimonial-area {
-    background-color: var(--clr-color-lightPink);
-    overflow: hidden;
-    position: relative;
-    z-index: 1;
-  }
+
   
   .testimonial-admin {
     display: flex;
@@ -60,18 +55,10 @@
     background-color: var(--clr-theme-primary);
   }
   
-  .h3_testimonial-area {
-    background-color: var(--clr-color-lightPink);
-    overflow: hidden;
-    position: relative;
-    z-index: 1;
-  }
-  .h3_testimonial-shape-1 {
-    position: absolute;
-    left: 65px;
-    top: 120px;
-    animation: animation-upDown-2 3s linear 0s infinite alternate;
-  }
+
   .swiper-slide{
     padding: 0 0 60px 0 ;
   }
+
+
+  .testimonial-area{width: 90%; margin: 0 auto;}

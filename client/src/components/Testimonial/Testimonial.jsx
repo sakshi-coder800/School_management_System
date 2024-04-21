@@ -14,7 +14,7 @@ import { Pagination } from 'swiper/modules';
 export default function Testimonial() {
   return (
     <>
-<section className="testimonial-area pt-140 pb-140">
+<section className="testimonial-area">
     <div className="container">
       <div className="row justify-content-center">
         <div className="col-xl-6 col-lg-8 col-md-10">
